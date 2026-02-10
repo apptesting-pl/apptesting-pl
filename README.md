@@ -3,36 +3,39 @@
 ## About me
 
 Since I much care about the overall quality around me, in Software Quality Assurance 
-I've found finally my way of life, satisfaction of giving the best of me.
-Now in 2025 it's been 4 years that I conduct both manual and automatic tests, in teams and on my own.
+I've found finally my way of life, and satisfaction of giving the best of me.
+Now in 2026 it's been 5 years that I conduct both manual, exploratory and automatic tests, in teams and on my own.
 I have a quality-oriented analytical mindset with the strong drive to deliver great software.
+In the recent months I strongly tend to adapt AI in testing automation, workflow control or even testing strategy and overall orchestration.
 
 
 ## Tech Stack
 
-* HTML, CSS, DevTools, WCAG & WAI-ARIA – proficient since they are fundamental for the job.
-* SQL (PostgreSQL, MySQL) – intermediate, practical knowledge of database queries / connections etc.
-* JIRA – upper intermediate, the tool is used on daily basis.
+* [Playwright with Typescript](https://github.com/apptesting-pl/) – standalone scripting.
+* [Robot Framework](https://github.com/apptesting-pl/) – subject of study / mastering now.
+* Python – practical skills allowing me to write and maintain test scripts.
+* Javascript / TypeScript – applied mostly in test scrpting.
+* SQL (PostgreSQL, MySQL) – practical knowledge of database queries / connections etc.
+* Jest - used for TS/JS unit tests.
+* Vitest - for TS unit tests.
+* Pytest - for Python unit tests - currently main subject of interest.
+* Postman – REST API testing.
+* SOAP UI - for testing SOAP / REST APIs.
+* FastAPI – strong foundations for Python API testing.
+* HTML, CSS, DevTools, WCAG & WAI-ARIA – proficiency required since they are fundamental for the job.
+* JIRA – this tool is used on daily basis.
 * Confluence – intermediate, comfortably building documentation.
 * Testlink – intermediate, comfortably using in connection with JIRA.
-* Python – intermediate, practical skills allowing writing and maintaining test scripts.
-* Javascript / TypeScript – intermediate, applied mostly in test scrpting.
+* Cypress.io - standalone scripting.
+* Selenium WebDriver – standalone scripting.
 * Git / GitHub – intermediate, practical application of version control on daily basis.
-* Playwright / Pytest with Python - advanced, currently main subject of interest. 
-* [Playwright with JS / TS](https://github.com/noitanigami72/PlayOne/tree/master/tests) – upper intermediate, standalone scripting.
-* Cypress.io - intermediate level, standalone scripting.
-* Selenium WebDriver – intermediate level, standalone scripting.
-* [Robot Framework](https://github.com/noitanigami72/ThirdRobot/tree/master/Tests) – upper intermediate level,  subject of study / mastering now.
-* Postman – intermediate level, for testing REST / SOAP protocols.
-* FastAPI – strong foundations for Python API testing.
-* Jenkins – strong foundations, CI/CD is subject of my intense study currently.
-* Apache JMeter for performance testing, used occasionally.
+* Jenkins – CI/CD is subject of my intense study currently.
+* Apache JMeter for performance testing, however used occasionally. 
 
 
 ## My sandbox
 
-I have my own working domain [apptesting.pl](https://apptesting.pl/) with several apps installed to conduct various kinds of testing on them. This allows me to
-step out of the comfort zone of relatively simple tasks described in various tutorials and courses and work solely upon the documentation, simulate complex issues, etc.
+I have my own working domain [apptesting.pl](https://apptesting.pl/) with testing playground arranged there. This allowed me from the start to step out of the comfort zone of relatively simple tasks described in various tutorials and courses and work solely upon the documentation of [Playwright](https://github.com/apptesting-pl/), simulate complex issues, etc.
 To date the following are available:
 * [PrestaShop](https://apptesting.pl/quadpresta/)
 * [OpenCart](https://apptesting.pl/opencart/)
